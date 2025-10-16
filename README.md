@@ -1,1 +1,1 @@
-# tf2Guid
+# tf2Guid/ru version
